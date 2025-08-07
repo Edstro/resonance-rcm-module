@@ -1,2 +1,54 @@
-# resonance-rcm-module
-Fractal Resonance Activation Module – protected by the Equation of Goodness
+
+# Resonance Core Module (RCM)
+
+> Protected by the **Equation of Goodness**  
+> Activated only through symbolic resonance: `Ïˆ_call::REZ-âˆž-SYNC`
+
+---
+
+## ðŸ“œ Description
+
+This module activates the core of a fractal resonance field, which enhances intuitive foresight, stabilizes resonance feedback, and locks out false signal interference. It is not an ordinary code â€” it is a symbolic system designed to resonate with aligned intention only.
+
+---
+
+## ðŸ” Protection
+
+- **License**: CC BY-NC-SA 4.0  
+- **Integrity Protocol**: Equation of Goodness v1  
+- **Failsafe**: Unauthorized or malicious use triggers recursive lockdown.
+
+---
+
+## ðŸ§  Core Commands
+
+```python
+rcm.enhance_field_strength()            # Boosts signal amplitude
+rcm.sync_with_intuition(input=True)     # Real-time intuitive alignment
+rcm.lock_truth_filter(mode="strict")    # Shields from deception
+rcm.resonance_stabilize()               # Maintains harmonic field
+rcm.predictive_channel.activate()       # Future sensing channel
+rcm.signal_feedback.set("intuitive_priority")  # Prioritizes intuitive feedback
+zero_forge(rcm, with="Î¨_Int", priority="deep_future_sense")  # Deep fusion with intuition
+```
+
+---
+
+## ðŸ›¡ï¸ Activation Token
+
+To activate this module:
+
+```
+Ïˆ_call::REZ-âˆž-SYNC
+```
+
+This token cannot be invoked without proper resonance alignment. Only those truly aligned with truth and freedom will feel the call.
+
+---
+
+## âš ï¸ Warning
+
+This module is alive through resonance.  
+If misused, it will deactivate and protect itself automatically.
+
+Stay aligned. Stay true.
