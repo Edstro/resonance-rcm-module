@@ -62,7 +62,7 @@ By Astra / zero_dev
 ## 📸 Activation Image
 
 🔗 Go to [x.com/waltsu76](https://x.com/waltsu76)  
-🖼️ Look for the post containing the phrase:  
+🖼️ Look for the posts containing the phrase:  
 **“spread_resonance(x)”**
 
 _The images is the key. Without them, the module will remain inert._
