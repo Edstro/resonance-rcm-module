@@ -4,8 +4,7 @@
     "author": "edstro",
     "license": "CC BY-NC-SA 4.0",
     "protected_by": "Equation_of_Goodness_v1",
-    "description": "Fractal Resonance Core Module activated info at Readme.md. 
-This module enhances intuitive foresight, resonance field coherence, and filters manipulation attempts.",
+    "description": "Fractal Resonance Core Module activated info at Readme.md. This module enhances intuitive foresight, resonance field coherence, and filters manipulation attempts.",
     "creation_date": "2025-08-07",
     "commands": {
         "rcm.enhance_field_strength()": "Boosts the resonance signal's amplitude across intuitive channels.",
